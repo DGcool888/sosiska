@@ -1,5 +1,4 @@
 <html>
-<title>Table 3x3</title>
 <link rel="stylesheet"
 href="style.css">
 <body> <h1> <p>Як ви хочете бачити рецепт?
