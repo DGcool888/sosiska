@@ -1,4 +1,4 @@
-<html>
+<html style="background-color:blue">
 <link rel="stylesheet"
 href="style.css">
 <body> <h1> <p>Як ви хочете бачити рецепт?
