@@ -1,7 +1,7 @@
 <html style="background-color:blue">
 <link rel="stylesheet"
 href="style.css">
-<body> <h1> <p>Як ви хочете бачити рецепт?
+<body style="background-color:blue> <h1> <p>Як ви хочете бачити рецепт?
 <a href="#text">в текстовому форматі</a> <a href="#table">як таблиця</a> <a href="#mytable">моя кулінарна таблиця</a></p></h1>
 </body>
 <header id="text">
